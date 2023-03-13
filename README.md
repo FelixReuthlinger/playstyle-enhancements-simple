@@ -26,6 +26,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * Reliable block (independent from been staggered)
 * Remove smoke (better FPS) and fires stay lit
 * Automatic pinning things on the map (instead of searching)
+* only need to build one portal to connect to all portals via clicking on the map
 * ...
 * what did I forget?
 
@@ -33,6 +34,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.2.3 -> added target portal
 * 1.2.1 & .2 -> added auto map pins
 * 1.2.0 -> first mod updates for new Valheim patch .214
 * 1.1.0 -> dropped multi user chest mod, as it causes issues in multiplayer looting gravestones, requires to remove mod or create new profile
