@@ -1,7 +1,7 @@
 {
   "name": "SimplePlaystyleEnchancements",
   "description": "My personal selection of mods I would never want to miss playing any other mod pack",
-  "version_number": "1.2.3",
+  "version_number": "1.2.4",
   "website_url": "https://github.com/FelixReuthlinger/playstyle-enhancements-simple",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -11,7 +11,7 @@
     "Azumatt-AzuHoverStats-1.0.6",
     "Azumatt-AzuWorkbenchTweaks-1.0.1",
     "Azumatt-DeezMistyBalls-1.0.1",
-    "Azumatt-ImFRIENDLY_DAMMIT-1.0.7",
+    "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Crystal-Pathfinder-2.0.7",
     "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.2",
     "FixItFelix-NoSkillDrain-1.0.1",
@@ -32,7 +32,7 @@
     "Smoothbrain-SteadyRegeneration-1.0.1",
     "Smoothbrain-TargetPortal-1.1.6",
     "TastyChickenLegs-NoSmokeStayLit-2.2.5",
-    "ValheimModding-Jotunn-2.10.4",
+    "ValheimModding-Jotunn-2.11.0",
     "denikson-BepInExPack_Valheim-5.4.2100"
   ]
 }

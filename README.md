@@ -34,6 +34,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.2.4 -> more mod updates
 * 1.2.3 -> added target portal
 * 1.2.1 & .2 -> added auto map pins
 * 1.2.0 -> first mod updates for new Valheim patch .214
