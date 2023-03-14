@@ -13,7 +13,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * Instantly equip items (no need to wait)
 * Increased carrying capability
 * Equipment and quickslots (including keeping equipment on death) 
-* Increased Kiln, Smelter, ... capacity and output speed
+* Increased Kiln, Smelter, ... capacity and output speed - will increase per boss kill (new)
 * Monsters drop loot instantly (no need to wait the rag doll rolling down a mountain)
 * In-game clock
 * Mistlands Ballista not shooting yourself
@@ -27,6 +27,8 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * Remove smoke (better FPS) and fires stay lit
 * Automatic pinning things on the map (instead of searching)
 * only need to build one portal to connect to all portals via clicking on the map
+* building skill that hardens buildings on improved skill level
+* farming / foraging / lumberjacking / mining that makes grinding resources easier on high skill levels
 * ...
 * what did I forget?
 
@@ -34,6 +36,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.3.0 -> moved some more mods in here, removed mass farming (since replaced by farming) and tuned a lot of values
 * 1.2.4 -> more mod updates
 * 1.2.3 -> added target portal
 * 1.2.1 & .2 -> added auto map pins
