@@ -29,6 +29,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * only need to build one portal to connect to all portals via clicking on the map
 * building skill that hardens buildings on improved skill level
 * farming / foraging / lumberjacking / mining that makes grinding resources easier on high skill levels
+* UI related tweaks -> https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/
 * ...
 * what did I forget?
 
@@ -36,6 +37,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.3.1 -> forked out some UI related things into a new modpack that is also integrated here
 * 1.3.0 -> moved some more mods in here, removed mass farming (since replaced by farming) and tuned a lot of values
 * 1.2.4 -> more mod updates
 * 1.2.3 -> added target portal
@@ -51,7 +53,15 @@ This selection should not change playstyle from other modpacks too much, it just
 * 1.0.1 -> oh, forgot productivity 
 * 1.0.0 -> initially pulled from my other mod pack
 
-## Contact
+# Contact
 
 * https://github.com/FelixReuthlinger/playstyle-enhancements-simple 
 * Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
+
+## Other mod packs
+
+I do also publish a selection of other mod packs:
+
+* https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ (included here)
+* https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_ModPack/
+* https://valheim.thunderstore.io/package/FixItFelix/JothorHeim/ 
