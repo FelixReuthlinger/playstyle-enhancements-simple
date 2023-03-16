@@ -30,6 +30,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * building skill that hardens buildings on improved skill level
 * farming / foraging / lumberjacking / mining that makes grinding resources easier on high skill levels
 * UI related tweaks -> https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/
+* faster item transfer (right click, from/to inv/chest)
 * ...
 * what did I forget?
 
@@ -37,6 +38,9 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.4.0 -> removed UI components from this part, you can add those by adding my other modpack https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
+* 1.3.3 -> more mod updates, getting there slowly
+* 1.3.2 -> adding faster item transfer (right click, from/to inv/chest)
 * 1.3.1 -> forked out some UI related things into a new modpack that is also integrated here
 * 1.3.0 -> moved some more mods in here, removed mass farming (since replaced by farming) and tuned a lot of values
 * 1.2.4 -> more mod updates

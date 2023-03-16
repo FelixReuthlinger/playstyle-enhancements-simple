@@ -1,7 +1,7 @@
 {
   "name": "SimplePlaystyleEnchancements",
   "description": "My personal selection of mods I would never want to miss playing any other mod pack",
-  "version_number": "1.3.1",
+  "version_number": "1.4.0",
   "website_url": "https://github.com/FelixReuthlinger/playstyle-enhancements-simple",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
@@ -11,10 +11,9 @@
     "Azumatt-DeezMistyBalls-1.0.1",
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
     "Crystal-Pathfinder-2.0.7",
-    "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.2",
+    "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.7",
     "FixItFelix-NoSkillDrain-1.0.1",
     "FixItFelix-RegenerativeNature-2.0.1",
-    "FixItFelix-UserInterfaceTweaks-1.0.0",
     "Goldenrevolver-Instantly_Destroy_Boats_And_Carts-1.0.3",
     "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.3.8",
     "Kempeth-AutoMapPins-1.3.0",
@@ -34,7 +33,8 @@
     "Smoothbrain-SmoothSave-1.0.0",
     "Smoothbrain-SteadyRegeneration-1.0.1",
     "Smoothbrain-TargetPortal-1.1.6",
-    "TastyChickenLegs-NoSmokeStayLit-2.2.5",
+    "TastyChickenLegs-NoSmokeStayLit-2.2.6",
+    "Vapok-FastItemTransfer-1.0.2",
     "ValheimModding-Jotunn-2.11.0",
     "denikson-BepInExPack_Valheim-5.4.2100"
   ]
