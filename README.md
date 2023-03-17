@@ -31,6 +31,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * farming / foraging / lumberjacking / mining that makes grinding resources easier on high skill levels
 * UI related tweaks -> https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/
 * faster item transfer (right click, from/to inv/chest)
+* increased default container sizes
 * ...
 * what did I forget?
 
@@ -38,6 +39,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.4.1 -> increased container sizes for some default containers
 * 1.4.0 -> removed UI components from this part, you can add those by adding my other modpack https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
 * 1.3.3 -> more mod updates, getting there slowly
 * 1.3.2 -> adding faster item transfer (right click, from/to inv/chest)
