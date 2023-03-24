@@ -39,6 +39,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.4.2 -> updated dependencies
 * 1.4.1 -> increased container sizes for some default containers
 * 1.4.0 -> removed UI components from this part, you can add those by adding my other modpack https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
 * 1.3.3 -> more mod updates, getting there slowly
@@ -68,6 +69,6 @@ This selection should not change playstyle from other modpacks too much, it just
 
 I do also publish a selection of other mod packs:
 
-* https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ (included here)
+* https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
 * https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_ModPack/
 * https://valheim.thunderstore.io/package/FixItFelix/JothorHeim/ 
