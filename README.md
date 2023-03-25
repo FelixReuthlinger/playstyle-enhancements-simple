@@ -39,6 +39,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.4.3 -> added multi user chest
 * 1.4.2 -> updated dependencies
 * 1.4.1 -> increased container sizes for some default containers
 * 1.4.0 -> removed UI components from this part, you can add those by adding my other modpack https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
