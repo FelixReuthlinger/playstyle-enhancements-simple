@@ -1,13 +1,13 @@
 {
   "name": "SimplePlaystyleEnchancements",
   "description": "My personal selection of mods I would never want to miss playing any other mod pack",
-  "version_number": "1.4.4",
+  "version_number": "1.4.5",
   "website_url": "https://github.com/FelixReuthlinger/playstyle-enhancements-simple",
   "dependencies": [
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
     "Azumatt-AzuAreaRepair-1.0.1",
     "Azumatt-AzuContainerSizes-1.0.1",
-    "Azumatt-AzuExtendedPlayerInventory-1.0.4",
+    "Azumatt-AzuExtendedPlayerInventory-1.0.5",
     "Azumatt-AzuWorkbenchTweaks-1.0.1",
     "Azumatt-DeezMistyBalls-1.0.1",
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
@@ -36,9 +36,9 @@
     "Smoothbrain-SmoothSave-1.0.0",
     "Smoothbrain-SteadyRegeneration-1.0.1",
     "Smoothbrain-TargetPortal-1.1.6",
-    "TastyChickenLegs-NoSmokeStayLit-2.2.6",
+    "TastyChickenLegs-NoSmokeStayLit-2.2.7",
     "Vapok-FastItemTransfer-1.0.2",
     "ValheimModding-Jotunn-2.11.0",
-    "denikson-BepInExPack_Valheim-5.4.2100"
+    "denikson-BepInExPack_Valheim-5.4.2102"
   ]
 }

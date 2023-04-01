@@ -39,6 +39,7 @@ This selection should not change playstyle from other modpacks too much, it just
 
 ## Change log
 
+* 1.4.5 -> updated dependencies
 * 1.4.4 -> added comfort tweaks
 * 1.4.3 -> added multi user chest
 * 1.4.2 -> updated dependencies
