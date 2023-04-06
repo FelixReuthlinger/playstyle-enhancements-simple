@@ -1,3 +1,4 @@
+* 1.4.8 -> updated depdendencies
 * 1.4.7 -> update for quick slots
 * 1.4.6 -> removed auto picker
 * 1.4.5 -> updated dependencies
