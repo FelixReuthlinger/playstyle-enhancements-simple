@@ -32,6 +32,9 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * UI related tweaks -> https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/
 * faster item transfer (right click, from/to inv/chest)
 * increased default container sizes
+* item drawer container (does pull items in 5 meters range)
+* planting enhancement mods
+* craft instantly and multi times
 * ...
 * what did I forget?
 
@@ -47,5 +50,4 @@ This selection should not change playstyle from other modpacks too much, it just
 I do also publish a selection of other mod packs:
 
 * https://valheim.thunderstore.io/package/FixItFelix/UserInterfaceTweaks/ 
-* https://valheim.thunderstore.io/package/FixItFelix/SinglePlayer_ModPack/
 * https://valheim.thunderstore.io/package/FixItFelix/JothorHeim/ 

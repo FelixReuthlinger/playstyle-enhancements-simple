@@ -1,3 +1,4 @@
+* 1.4.9 -> added planting mods; fixed conflicting left-shift hotkey for crafting from boxes; added item drawers; added AAA crafting
 * 1.4.8 -> updated depdendencies
 * 1.4.7 -> update for quick slots
 * 1.4.6 -> removed auto picker
