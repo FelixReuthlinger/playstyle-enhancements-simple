@@ -1,7 +1,7 @@
 {
   "name": "SimplePlaystyleEnchancements",
   "description": "My personal selection of mods I would never want to miss playing any other mod pack",
-  "version_number": "1.4.9",
+  "version_number": "1.4.10",
   "website_url": "https://github.com/FelixReuthlinger/playstyle-enhancements-simple",
   "dependencies": [
     "Advize-PlantEasily-1.1.0",
