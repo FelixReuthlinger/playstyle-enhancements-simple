@@ -1,3 +1,4 @@
+* 1.4.13 -> added some simple UI mods here
 * 1.4.12 -> dependency updates
 * 1.4.11 -> changed easy planting to always plant, also if some single plants are red (otherwise requires to shrink amount...)
 * 1.4.10 -> forgot some config to be added here
