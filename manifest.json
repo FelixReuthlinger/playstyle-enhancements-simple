@@ -1,16 +1,16 @@
 {
   "name": "SimplePlaystyleEnchancements",
   "description": "My personal selection of mods I would never want to miss playing any other mod pack",
-  "version_number": "1.4.11",
+  "version_number": "1.4.12",
   "website_url": "https://github.com/FelixReuthlinger/playstyle-enhancements-simple",
   "dependencies": [
-    "Advize-PlantEasily-1.1.0",
+    "Advize-PlantEasily-1.1.2",
     "Advize-PlantEverything-1.13.4",
     "aedenthorn_mods-InstantMonsterLootDrop-0.5.0",
     "Azumatt-AAA_Crafting-1.0.6",
     "Azumatt-AzuAreaRepair-1.0.1",
     "Azumatt-AzuContainerSizes-1.0.1",
-    "Azumatt-AzuExtendedPlayerInventory-1.0.6",
+    "Azumatt-AzuExtendedPlayerInventory-1.0.7",
     "Azumatt-AzuWorkbenchTweaks-1.0.1",
     "Azumatt-DeezMistyBalls-1.0.1",
     "Azumatt-ImFRIENDLY_DAMMIT-1.0.8",
@@ -29,7 +29,7 @@
     "RandyKnapp-EquipmentAndQuickSlots-2.1.4",
     "Smoothbrain-Building-1.2.4",
     "Smoothbrain-ComfortTweaks-3.1.12",
-    "Smoothbrain-ConversionSizeAndSpeed-1.0.9",
+    "Smoothbrain-ConversionSizeAndSpeed-1.0.10",
     "Smoothbrain-Farming-2.1.8",
     "Smoothbrain-Foraging-1.0.3",
     "Smoothbrain-InstantEquip-1.0.5",
@@ -38,10 +38,10 @@
     "Smoothbrain-PackHorse-1.0.2",
     "Smoothbrain-SmoothSave-1.0.0",
     "Smoothbrain-SteadyRegeneration-1.0.1",
-    "Smoothbrain-TargetPortal-1.1.6",
+    "Smoothbrain-TargetPortal-1.1.7",
     "TastyChickenLegs-NoSmokeStayLit-2.2.7",
     "Vapok-FastItemTransfer-1.0.2",
-    "ValheimModding-Jotunn-2.11.0",
+    "ValheimModding-Jotunn-2.11.3",
     "denikson-BepInExPack_Valheim-5.4.2102"
   ]
 }
