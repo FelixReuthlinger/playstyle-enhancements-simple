@@ -35,6 +35,7 @@ Each time trying out another modpack I ususally miss some features that I feel c
 * item drawer container (does pull items in 5 meters range)
 * planting enhancement mods
 * craft instantly and multi times
+* passive boss power (can select 2, key F and G to activate besides passive boosts)
 * ...
 * what did I forget?
 
