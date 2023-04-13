@@ -1,3 +1,4 @@
+* 1.5.2 -> changed crafty boxes config defaults
 * 1.5.1 -> added equipment in water enabling mod; added swimming and diving mod (usefull even not playing submerged mods)
 * 1.5.0 -> replaced deprecated crafty boxes with the follow up mod from Azu (requires fresh profile); added passive powers mod
 * 1.4.13 -> added some simple UI mods here

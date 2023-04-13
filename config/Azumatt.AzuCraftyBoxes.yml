@@ -1,0 +1,148 @@
+# Below you can find example groups. Groups are used to exclude or includeOverride quickly. They are reusable lists! 
+#Please note that some of these groups/container limitations are kinda pointless but are here for example.
+# Make sure to follow the format of the example below. If you have any questions, please ask in my discord.
+
+# Full vanilla prefab name list: https://valheim-modding.github.io/Jotunn/data/prefabs/prefab-list.html
+# Item prefab name list: https://valheim-modding.github.io/Jotunn/data/objects/item-list.html
+
+groups:
+  Swords: # Group name
+    - SwordBlackmetal # Item prefab name, note that this is case sensitive and must be the prefab name
+    - SwordBronze
+    - SwordIron
+    - SwordMistwalker
+    - THSwordKrom
+    - SwordCheat
+    - SwordIronFire
+    - SwordSilver
+  Armor:
+    - ArmorBronzeChest
+    - ArmorBronzeLegs
+    - ArmorCarapaceChest
+    - ArmorCarapaceLegs
+    - ArmorFenringChest
+    - ArmorFenringLegs
+    - ArmorIronChest
+    - ArmorIronLegs
+    - ArmorLeatherChest
+    - ArmorLeatherLegs
+    - ArmorMageChest
+    - ArmorMageLegs
+    - ArmorPaddedCuirass
+    - ArmorPaddedGreaves
+    - ArmorRagsChest
+    - ArmorRagsLegs
+    - ArmorRootChest
+    - ArmorRootLegs
+    - ArmorTrollLeatherChest
+    - ArmorTrollLeatherLegs
+    - ArmorWolfChest
+    - ArmorWolfLegs
+  Food:
+    - BarleyWine
+    - BlackSoup
+    - BloodPudding
+    - Blueberries
+    - BoarJerky
+    - Bread
+    - Carrot
+    - CarrotSoup
+    - Cloudberry
+    - CookedBugMeat
+    - CookedChickenMeat
+    - CookedDeerMeat
+    - CookedEgg
+    - CookedHareMeat
+    - CookedLoxMeat
+    - CookedMeat
+    - CookedWolfMeat
+    - DeerStew
+    - Eyescream
+    - FishAndBread
+    - FishCooked
+    - FishWraps
+    - HealthUpgrade_Bonemass
+    - HealthUpgrade_GDKing
+    - Honey
+    - HoneyGlazedChicken
+    - LoxPie
+    - MagicallyStuffedShroom
+    - MeadEitrMinor
+    - MeadFrostResist
+    - MeadHealthMajor
+    - MeadHealthMedium
+    - MeadHealthMinor
+    - MeadPoisonResist
+    - MeadStaminaLingering
+    - MeadStaminaMedium
+    - MeadStaminaMinor
+    - MeadTasty
+    - MeatPlatter
+    - MinceMeatSauce
+    - MisthareSupreme
+    - Mushroom
+    - MushroomBlue
+    - MushroomJotunPuffs
+    - MushroomMagecap
+    - MushroomOmelette
+    - MushroomYellow
+    - NeckTailGrilled
+    - Onion
+    - OnionSoup
+    - Pukeberries
+    - QueensJam
+    - Raspberry
+    - RottenMeat
+    - RoyalJelly
+    - Salad
+    - Sausages
+    - SeekerAspic
+    - SerpentMeatCooked
+    - SerpentStew
+    - ShocklateSmoothie
+    - StaminaUpgrade_Greydwarf
+    - StaminaUpgrade_Troll
+    - StaminaUpgrade_Wraith
+    - TurnipStew
+    - WolfJerky
+    - WolfMeatSkewer
+    - YggdrasilPorridge
+  Arrows:
+    - ArrowBronze
+    - ArrowCarapace
+    - ArrowFire
+    - ArrowFlint
+    - ArrowFrost
+    - ArrowIron
+    - ArrowNeedle
+    - ArrowObsidian
+    - ArrowPoison
+    - ArrowSilver
+    - ArrowWood
+    - draugr_arrow
+  Ores:
+    - CopperOre
+    - IronOre
+    - SilverOre
+    - TinOre
+    - FlametalOre
+  Scraps:
+    - BlackMetalScrap
+    - BronzeScrap
+    - CopperScrap
+    - IronScrap
+    - LeatherScraps
+  Tier 2 Items:
+    - Bronze
+    - PickaxeBronze
+    - ArmorBronzeChest
+    - ArmorBrozeLeggings
+  Bows:
+    - Bow
+    - BowDraugrFang
+    - BowFineWood
+    - BowHuntsman
+    - BowSpineSnap
+    - CrossbowArbalest
+
+### this is just the default file without include/excludes
